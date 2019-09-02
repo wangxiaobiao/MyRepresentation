@@ -10,13 +10,13 @@
 <h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
-![nju](assets/images/NJU.jpg)
+![nju](assets/img/NJU.jpg)
 @snap[midpoint]
 @fa[angle-double-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]
-![gyy](assets/images/GYY.jpg)
+![gyy](assets/img/GYY.jpg)
 @snapend
 
 +++
@@ -25,13 +25,13 @@
 <h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
-![whu](assets/images/students.jpg)
+![whu](assets/img/students.jpg)
 @snap[midpoint]
 @fa[angle-double-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]
-![gyy](assets/images/officer.jpg)
+![gyy](assets/img/officer.jpg)
 @snapend
 
 ---
