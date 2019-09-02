@@ -1,8 +1,11 @@
-.spaced li {
-  margin:0 0 10px 0;
+.sidebar img {
+    width: 35%;
 }
 
-.shadow {
-  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+.small img {
+    width: 20%;
 }
 
+.mid img {
+    width: 30%;
+}
