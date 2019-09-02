@@ -1,7 +1,6 @@
----?image=assets/img/qrcode.png&position=right 10% bottom 10%&size=10% auto
+---?image=assets/img/qrcode.png&position=right 50% bottom 10%&size=10% auto
 <h1 style="font-family:'STXingkai';">@color[#e49436](我的)代表作</h1> 
 <p style="font-family:'STXingkai';">Presented by @size[1.2em](@color[#e49436](王小标))</p>
-<p>@size[0.4em](https://gitpitch.com/wangxiaobiao/YouthRepresentation/master)</p>
 
 ---
 ## @fa[graduation-cap](入职)
