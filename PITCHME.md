@@ -1,7 +1,7 @@
----?image=assets/images/qrcode.png&position=right 10% bottom 10%&size=10% auto
-<h1 style="font-family:'STXinwei';">@color[#e49436](青春)代表作</h1> 
+---?image=assets/img/qrcode.png&position=right 10% bottom 10%&size=10% auto
+<h1 style="font-family:'STXinwei';">@color[#e49436](我的)代表作</h1> 
 <p style="font-family:'STXinwei';">Presented by @size[1.2em](@color[#e49436](王小标))</p>
-<p>@size[0.4em](https://gitpitch.com/YazidLee/YouthRepresentation/master)</p>
+<p>@size[0.4em](https://gitpitch.com/wangxiaobiao/YouthRepresentation/master)</p>
 
 ---
 ## @fa[graduation-cap](入职)
@@ -25,7 +25,7 @@
 <h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
-![whu](assets/img/students.jpg)
+![nju](assets/img/students.jpg)
 @snap[midpoint]
 @fa[angle-double-right fa-5x]
 @snapend
