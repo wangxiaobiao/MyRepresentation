@@ -92,8 +92,12 @@
 - @color[#e49436](好吧，其实，我也不知道怎么缓过来的)
 @ulend
 
----?image=assets/img/lovework.jpg&position=left 10% bottom 10%&size=10% auto
----?image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
+@snap[west small]
+![我爱工作](assets/img/lovework.jpg)&position=left 10% bottom 10%&size=10% auto
+@snapend
+@snap[east small]
+![坚持](assets/img/insist.jpg)&position=right 10% bottom 10%&size=10% auto
+@snapend
 +++
 
 ### 成果
