@@ -1,6 +1,6 @@
 ---?image=assets/img/qrcode.png&position=right 50% bottom 10%&size=10% auto
-<h1 style="font-family:'STXingkai';">@color[#4876FF](我的)代表作</h1> 
-<p style="font-family:'STXingkai';">Presented by @size[1.2em](@color[#4876FF](王小标))</p>
+<h1 style="font-family:'Microsoft YaHei';">@color[#4876FF](我的)代表作</h1> 
+<p style="font-family:'Microsoft YaHei';">Presented by @size[1.2em](@color[#4876FF](王小标))</p>
 
 ---
 ## @fa[university](入职)
@@ -92,12 +92,8 @@
 - @color[#e49436](好吧，其实，我也不知道怎么缓过来的)
 @ulend
 
-@snap[west small]
-![我爱工作](assets/img/lovework.jpg)
-@snapend
-@snap[east small]
-![坚持](assets/img/insist.jpg)
-@snapend
+---?image=assets/img/lovework.jpg&position=left 10% bottom 10%&size=10% auto
+---?image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
 +++
 
 ### 成果
