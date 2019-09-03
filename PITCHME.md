@@ -77,8 +77,9 @@
 ### 逐渐适应
 
 +++
----?image=assets/img/lovework.jpg&position=left 10% bottom 10%&size=10% auto
----?image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
+
+---?image=assets/img/lovework.jpg&position=left 10% bottom 10%&size=10% auto & image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
+
 @ul
 - @size[0.5em](把项目资料打印装订好。)
 - @fa[print]
