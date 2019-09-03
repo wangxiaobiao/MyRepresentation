@@ -3,15 +3,15 @@
 <p style="font-family:'STXingkai';">Presented by @size[1.2em](@color[#4876FF](王小标))</p>
 
 ---
-## @fa[graduation-cap](入职)
+## @fa[trian](入职)
 +++
 @snap[north]
-<h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
+<h2>@size[0.5em](@color[#4876FF](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
 ![nju](assets/img/NJU.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-5x]
+@fa[hand-o-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]SS
@@ -21,12 +21,12 @@
 +++
 
 @snap[north]
-<h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
+<h2>@size[0.5em](@color[#4876FF](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
 ![nju](assets/img/students.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-5x]
+@fa[hand-o-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]
