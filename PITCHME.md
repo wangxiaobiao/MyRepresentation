@@ -11,10 +11,10 @@
 @snap[west sidebar]
 ![nju](assets/img/NJU.jpg)
 @snap[midpoint]
-@fa[arrow-right fa-5x]
+@fa[angle-double-right fa-5x]
 @snapend
 @snapend
-@snap[east sidebar]SS
+@snap[east sidebar]
 ![gyy](assets/img/GYY.jpg)
 @snapend
 
@@ -26,7 +26,7 @@
 @snap[west sidebar]
 ![nju](assets/img/students.jpg)
 @snap[midpoint]
-@fa[arrow-right fa-5x]
+@fa[angle-double-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]
