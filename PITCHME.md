@@ -78,16 +78,19 @@
 
 +++
 
----?image=assets/img/lovework.jpg
 @ul
-- @size[0.5em](先假设你有一个苹果。)
-- @fa[apple]
-- @size[0.5em](假设有人又给了你另一个苹果。)
-- @fa[apple]@fa[apple]
-- @size[0.5em](现在，数一下你所拥有的苹果数量，你会得到结果是两个。也就是说一个苹果加一个苹果等于两个苹果，即一加一等于二。)
-- $$1 + 1 = 2$$
-- @size[0.5em](那么，现在你已经对算数的基本原理有了一定了解了，我们来看看下面这个例子，将上述知识运用到实践中。)
-- $$\log 	\Pi(N) = (N + \frac{1}{2})\log N - N + A - \int_N^\infty{\frac{B1(x)dx}{x}}$$
+- @size[0.5em](把项目资料打印装订好。)
+- @fa[print]
+- @size[0.5em](跟四个飞手一起去飞一下飞机。)
+- @fa[plane]@fa[plane]
+- @size[0.5em](日常简单的生产任务还是比较容易适应的。)
+@snap
+![我爱工作](assets/img/lovework.jpg)
+@snapend
+- @size[0.5em](现在你对生产任务有一定了解啦，那么你负责一下松桃“两区”划定项目。)
+@snap
+![坚持](assets/img/insist.jpg)
+@snapend
 - @color[#e49436](好吧，其实，我也不知道怎么缓过来的)
 @ulend
 
