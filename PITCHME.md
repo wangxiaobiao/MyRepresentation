@@ -3,7 +3,7 @@
 <p style="font-family:'STXingkai';">Presented by @size[1.2em](@color[#4876FF](王小标))</p>
 
 ---
-## @fa[train](入职)
+## @fa[university](入职)
 +++
 @snap[north]
 <h2>@size[0.5em](@color[#4876FF](入职)——Hello，贵阳院！)</h2>
@@ -35,40 +35,41 @@
 
 ---
 
-## @fa[briefcase](工作)
+## @fa[male](工作)
 
 +++
 
-### 迷茫
+###一脸茫然
 @ul
-- @fa[bus](@color[#e49436]陌生的环境)
-- @fa[street-view](@color[#e49436]人际关系)
-- @fa[comments](@color[#e49436]方言)
+- @fa[street-view](新环境)
+- @fa[handshake-o](新人际关系)
+- @fa[rocket](新技术)
+- @fa[bicycle](新领域)
 @ulend
 
 @snap[east small]
-![迷茫](assets/images/1.jpg)
+![茫然](assets/img/2.jpg)
 @snapend
 @snap[north small]
-![迷茫](assets/images/2.jpg)
+![茫然](assets/img/4.jpg)
 @snapend
 @snap[west small]
-![迷茫](assets/images/3.jpg)
+![茫然](assets/img/6.jpg)
 @snapend
 @snap[south small]
-![迷茫](assets/images/4.jpg)
+![茫然](assets/img/8.jpg)
 @snapend
 @snap[south-west small]
-![迷茫](assets/images/5.jpg)
+![茫然](assets/img/7.jpg)
 @snapend
 @snap[south-east small]
-![迷茫](assets/images/6.jpg)
+![茫然](assets/img/1.jpg)
 @snapend
 @snap[north-east small]
-![迷茫](assets/images/7.jpg)
+![茫然](assets/img/3.jpg)
 @snapend
 @snap[north-west small]
-![迷茫](assets/images/8.jpg)
+![茫然](assets/img/5.jpg)
 @snapend
 
 +++
