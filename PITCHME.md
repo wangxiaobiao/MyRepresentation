@@ -77,7 +77,8 @@
 ### 逐渐适应
 
 +++
-
+---?image=assets/img/lovework.jpg&position=right 10% bottom 10%&size=10% auto
+---?image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
 @ul
 - @size[0.5em](把项目资料打印装订好。)
 - @fa[print]
@@ -92,12 +93,6 @@
 - @color[#e49436](好吧，其实，我也不知道怎么适应的)
 @ulend
 
-@snap[west]
-![我爱工作](assets/img/lovework.jpg)
-@snapend
-@snap[east]
-![坚持](assets/img/insist.jpg)
-@snapend
 +++
 
 ### 成果
