@@ -1,13 +1,14 @@
 .sidebar img {
     width: 35%;
-    border-style:solid;
-    border-color: white;
+    color: white;
 }
 
 .small img {
     width: 20%;
+    color: white;
 }
 
 .mid img {
     width: 30%;
+    color: white;
 }
