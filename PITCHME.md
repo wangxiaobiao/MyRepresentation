@@ -84,11 +84,11 @@
 - @size[0.5em](跟四个飞手一起去飞一下飞机。)
 - @fa[plane]@fa[plane]
 - @size[0.5em](日常简单的生产任务还是比较容易适应的。)
--@fa[hand-o-left]
--@fa[hand-o-left]
+- @fa[hand-o-left]
+- @fa[hand-o-left]
 - @size[0.5em](现在你对生产任务有一定了解啦，那么你负责一下松桃“两区”划定项目。)
--@fa[hand-o-right]
--@fa[hand-o-right]
+- @fa[hand-o-right]
+- @fa[hand-o-right]
 - @color[#e49436](好吧，其实，我也不知道怎么缓过来的)
 @ulend
 
