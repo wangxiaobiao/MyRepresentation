@@ -74,10 +74,11 @@
 
 +++
 
-### 过渡
+### 逐渐适应
 
 +++
 
+---?image=assets/img/lovework.jpg
 @ul
 - @size[0.5em](先假设你有一个苹果。)
 - @fa[apple]
