@@ -78,8 +78,6 @@
 
 +++
 
----?image=assets/img/lovework.jpg&position=left 10% bottom 10%&size=10% auto & image=assets/img/insist.jpg&position=right 10% bottom 10%&size=10% auto
-
 @ul
 - @size[0.5em](把项目资料打印装订好。)
 - @fa[print]
@@ -91,9 +89,15 @@
 - @size[0.5em](你和黄瑞负责一下观山湖区三调监理项目。)
 - @size[0.5em](你负责一下松桃“两区”划定项目。)
 - @fa[hand-o-right]
-- @color[#e49436](好吧，其实，我也不知道怎么适应的)
+- @color[#4876FF](好吧，其实，我也不知道怎么适应的)
 @ulend
 
+@snap[south-west span-10]
+![我爱工作](assets/img/lovework.jpg)
+@snapend
+@snap[south-east span-10]
+![坚持](assets/img/insist.jpg)
+@snapend
 +++
 
 ### 成果
