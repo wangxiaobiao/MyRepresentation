@@ -39,7 +39,7 @@
 
 +++
 
-###一脸茫然
+### 一脸茫然
 @ul
 - @fa[street-view](新环境)
 - @fa[handshake-o](新人际关系)
