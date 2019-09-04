@@ -135,7 +135,7 @@
 @snapend
 @snap[south span-30]
 ![wrj](assets/img/wrj.jpg)
-@snapend
+@snapendSSSS
 @snap[north span-30]
 ![guiyangyuan](assets/img/guiyangyuan.jpg)
 @snapend
@@ -150,23 +150,14 @@
 #### 3DGIS应用
 ![3DGIS](assets/img/3DGIS.jpg)
 
-+++
++++ 
 
-#### 其他
+#### 全景应用
+![qj](assets/img/qj.jpg)
 
-@ul
-- @fa[code](标准GDB数据合并工具)<br>
-- @fa[code](绘制断面Office Add-in工具)
-- @fa[volleyball-ball](气排球)
-- @fa[table-tennis](乒乓球(裁判))
-- @fa[ellipsis-v]
-@ulend
-
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
+---
 
 ## @fa[tint](生活)
-
-+++?image=assets/images/music.png
 
 ### 音乐
 
