@@ -159,7 +159,9 @@
 
 ## @fa[tint](生活)
 
-### 音乐
++++
+
+### 运动
 
 @snap[south-west mid]
 ![音乐](assets/images/worldend.jpg)
@@ -174,13 +176,7 @@
 ![音乐](assets/images/cat.png)
 @snapend
 
-+++?image=assets/images/dota2.jpg
-
-@snap[north]
-<h3>游戏</h3>
-@snapend
-
-+++?image=assets/images/css.jpg
++++
 
 ### 学习
 
