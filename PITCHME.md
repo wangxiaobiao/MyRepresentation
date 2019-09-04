@@ -92,12 +92,20 @@
 - @color[#4876FF](好吧，其实，我也不知道怎么适应的)
 @ulend
 
+
+@snap[east span-10]
+![钱](assets/img/money.jpg)
+@snapend
+@snap[west span-10]
+![搬砖](assets/img/work.jpg)
+@snapend
 @snap[south-west span-10]
 ![我爱工作](assets/img/lovework.jpg)
 @snapend
 @snap[south-east span-10]
 ![坚持](assets/img/insist.jpg)
 @snapend
+
 +++
 
 ### 工作实践
