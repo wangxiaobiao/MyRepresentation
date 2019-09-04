@@ -161,31 +161,31 @@
 
 +++
 
-@snap[west span-10]
+@snap[west span-9]
 ![长跑](assets/img/w.jpg)
 @snapend
-@snap[east span-10]
+@snap[east span-9]
 ![长跑](assets/img/e.jpg)
 @snapend
-@snap[north span-10]
+@snap[north span-9]
 ![长跑](assets/img/n.jpg)
 @snapend
-@snap[south span-10]
+@snap[south span-9]
 ![长跑](assets/img/s.jpg)
 @snapend
 @snap[midpoint]
 ### 长跑
 @snapend
-@snap[south-west span-10]
+@snap[south-west span-9]
 ![长跑](assets/img/sw.jpg)
 @snapend
-@snap[south-east span-10]
+@snap[south-east span-9]
 ![长跑](assets/img/se.jpg)
 @snapend
-@snap[north-east span-10]
+@snap[north-east span-9]
 ![长跑](assets/img/ne.jpg)
 @snapend
-@snap[north-west span-10]
+@snap[north-west span-9]
 ![长跑](assets/img/nw.jpg)
 @snapend
 
