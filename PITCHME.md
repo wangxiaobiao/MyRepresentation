@@ -194,10 +194,10 @@
 ### 其它运动
 
 @ul
-- @fa[basketball](篮球)<br>
-- @fa[badminton](羽毛球)
+- @fa[basketball-ball](篮球)<br>
+- @fa[shuttlecock](羽毛球)
 - @fa[volleyball-ball](气排球)
-- @fa[swimming](游泳)
+- @fa[swimming-pool](游泳)
 - @fa[ellipsis-v]
 @ulend
 
