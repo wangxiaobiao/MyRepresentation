@@ -157,27 +157,51 @@
 
 ---
 
-## @fa[tint](生活)
+## @fa[hourglass-2](生活)
 
 +++
 
-### 运动
-
+@snap[west mid]
+![长跑](assets/img/w.jpg)
+@snapend
+@snap[east mid]
+![长跑](assets/img/e.jpg)
+@snapend
+@snap[north mid]
+![长跑](assets/img/n.jpg)
+@snapend
+@snap[south mid]
+![长跑](assets/img/s.jpg)
+@snapend
+@snap[midpoint mid]
+### 长跑
+@snapend
 @snap[south-west mid]
-![音乐](assets/images/worldend.jpg)
+![长跑](assets/img/sw.jpg)
 @snapend
 @snap[south-east mid]
-![音乐](assets/images/youthsociety.jpg)
+![长跑](assets/img/se.jpg)
 @snapend
 @snap[north-east mid]
-![音乐](assets/images/sun.jpg)
+![长跑](assets/img/ne.jpg)
 @snapend
 @snap[north-west mid]
-![音乐](assets/images/cat.png)
+![长跑](assets/img/nw.jpg)
 @snapend
 
 +++
 
+### 其它运动
+
+@ul
+- @fa[code](标准GDB数据合并工具)<br>
+- @fa[code](绘制断面Office Add-in工具)
+- @fa[volleyball-ball](气排球)
+- @fa[table-tennis](乒乓球(裁判))
+- @fa[ellipsis-v]
+@ulend
+
++++
 ### 学习
 
 ![books](assets/images/books.png)
