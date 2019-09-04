@@ -194,10 +194,10 @@
 ### 其它运动
 
 @ul
-- @fa[code](标准GDB数据合并工具)<br>
-- @fa[code](绘制断面Office Add-in工具)
+- @fa[basketball](篮球)<br>
+- @fa[badminton](羽毛球)
 - @fa[volleyball-ball](气排球)
-- @fa[table-tennis](乒乓球(裁判))
+- @fa[swimming](游泳)
 - @fa[ellipsis-v]
 @ulend
 
