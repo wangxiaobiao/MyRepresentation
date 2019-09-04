@@ -114,7 +114,7 @@
 @snap[east span-30]
 ![LQ](assets/img/LQ.jpg)
 @snapend
-@snap[midpoint span-50]
+@snap[midpoint span-40]
 #### 工作会议
 ![gzhy](assets/img/gzhy.jpg)
 @snapend
