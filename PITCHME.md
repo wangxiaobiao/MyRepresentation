@@ -100,22 +100,27 @@
 @snapend
 +++
 
-### 成果
+### 工作实践
 
 +++
 
-#### 二维GIS应用
-![2DGIS](assets/images/2DGIS1.png)
+#### 工作会议
+![gzhy](assets/img/gzhy.jpg)
 
 +++
 
-#### 三维GIS应用
-![3DGIS](assets/images/3DGIS.png)
+#### 数据采集
+![无人机](assets/img/wrj.jpg)
+
++++
+
+#### 2DGIS应用
+![2DGIS](assets/img/2DGIS.jpg)
 
 +++ 
 
-#### 无人机
-![无人机](assets/images/huaxi3D.jpg)
+#### 3DGIS应用
+![3DGIS](assets/img/3DGIS.jpg)
 
 +++
 
