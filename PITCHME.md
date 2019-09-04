@@ -204,7 +204,7 @@
 +++
 ### 学习
 
-![study](assets/img/study.png)
+![study](assets/img/study.jpg)
 
 ---
 
