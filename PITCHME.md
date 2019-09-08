@@ -1,12 +1,12 @@
 ---?image=assets/img/qrcode.png&position=right 50% bottom 10%&size=10% auto
-<h1 style="font-family:'Microsoft YaHei';">@color[#4876FF](我的)代表作</h1> 
-<p style="font-family:'Microsoft YaHei';">Presented by @size[1.2em](@color[#4876FF](王小标))</p>
+<h1 style="font-family:'Microsoft YaHei';">@color[#a9a9a9](我的)代表作</h1> 
+<p style="font-family:'Microsoft YaHei';">Presented by @size[1.2em](@color[#a9a9a9](王小标))</p>
 
 ---
 ## @fa[university](入职)
 +++
 @snap[north]
-<h2>@size[0.5em](@color[#4876FF](入职)——Hello，贵阳院！)</h2>
+<h2>@size[0.5em](@color[#a9a9a9](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
 ![nju](assets/img/NJU.jpg)
@@ -21,12 +21,12 @@
 +++
 
 @snap[north]
-<h2>@size[0.5em](@color[#4876FF](入职)——Hello，贵阳院！)</h2>
+<h2>@size[0.5em](@color[#a9a9a9](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
 ![nju](assets/img/students.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-5x]
+@fa[angle-double-right fa-6x]
 @snapend
 @snapend
 @snap[east sidebar]
@@ -89,7 +89,7 @@
 - @size[0.5em](那么,你和黄瑞负责一下观山湖区三调监理项目。)
 - @size[0.5em](那么,你负责一下松桃“两区”划定项目。)
 - @fa[hand-o-right]
-- @color[#4876FF](好吧，其实，我也不知道怎么适应的)
+- @color[#4876FF](好吧，其实，我也不知道怎么挺过来的)
 @ulend
 
 @snap[east span-10]
