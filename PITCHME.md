@@ -1,6 +1,8 @@
 ---?image=assets/img/qrcode.png&position=right 50% bottom 10%&size=10% auto
+@snap [midpoint]
 <h1 style="font-family:'Microsoft YaHei';">@color[#a9a9a9](我的)代表作</h1> 
 <p style="font-family:'Microsoft YaHei';">Presented by @size[1.2em](@color[#a9a9a9](王小标))</p>
+@snapend
 
 ---
 ## @fa[university](入职)
@@ -12,7 +14,6 @@
 ![nju](assets/img/NJU.jpg)
 @snap[midpoint]
 @fa[angle-double-right fa-4x]
-@snapend
 @snapend
 @snap[east sidebar]
 ![gyy](assets/img/GYY.jpg)
