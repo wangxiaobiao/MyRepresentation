@@ -171,21 +171,8 @@
 
 +++
 
-@snap[north span-15]
-![jogging](assets/img/ene.png)
-@snapend
-@snap[midpoint span-30]
 #### 每月运动量
-@snapend
-@snap[west span-15]
-![jogging](assets/img/enw.png)
-@snapend
-@snap[east span-15]
-![jogging](assets/img/ese.png)
-@snapend
-@snap[south span-15]
-![jogging](assets/img/esw.png)
-@snapend
+![yundong](assets/img/yundong.jpg)
 
 +++
 
