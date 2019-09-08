@@ -134,7 +134,7 @@
 @snapend
 @snap[south span-30]
 ![wrj](assets/img/wrj.jpg)
-@snapendSSSS
+@snapend
 @snap[north span-30]
 ![guiyangyuan](assets/img/guiyangyuan.jpg)
 @snapend
@@ -171,19 +171,19 @@
 
 +++
 
-@snap[northeast span-10]
+@snap[north-east span-10]
 ![jogging](assets/img/ene.png)
 @snapend
 @snap[midpoint span-10]
 #### 每月运动量
 @snapend
-@snap[northwest span-10]
+@snap[north-west span-10]
 ![jogging](assets/img/enw.png)
 @snapend
-@snap[southeast span-10]
+@snap[south-east span-10]
 ![jogging](assets/img/ese.png)
 @snapend
-@snap[southwest span-10]
+@snap[south-west span-10]
 ![jogging](assets/img/esw.png)
 @snapend
 
