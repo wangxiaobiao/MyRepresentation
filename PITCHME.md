@@ -114,7 +114,7 @@
 @snap[east span-30]
 ![LQ](assets/img/LQ.jpg)
 @snapend
-@snap[midpoint span-30]
+@snap[midpoint span-40]
 #### 工作会议
 ![gzhy](assets/img/gzhy.jpg)
 @snapend
@@ -129,15 +129,13 @@
 @snapend
 @snap[midpoint span-30]
 #### 数据采集
+![guiyangyuan](assets/img/guiyangyuan.jpg)
 @snapend
 @snap[west span-30]
 ![shilong2](assets/img/shilong2.jpg)
 @snapend
 @snap[south span-30]
 ![wrj](assets/img/wrj.jpg)
-@snapend
-@snap[north span-30]
-![guiyangyuan](assets/img/guiyangyuan.jpg)
 @snapend
 
 +++
