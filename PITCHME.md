@@ -110,7 +110,7 @@
 ### 工作实践
 
 +++?color=linear-gradient(180deg, black 40%, white 60%)
-@snap[north]
+@snap[midpoint]
 #### 工作会议
 @snapend
 
