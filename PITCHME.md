@@ -112,7 +112,7 @@
 +++
 
 ---?color=linear-gradient(180deg, black 40%, #a9a9a9 60%)
-@snap
+@snap[midpoint]
 #### 工作会议
 @snapend
 
