@@ -109,13 +109,13 @@
 
 ### 工作实践
 
-+++?color=linear-gradient(180deg, black 40%, #a9a9a9 60%)
-@snap[midpoint]
++++?color=linear-gradient(180deg, black 40%, black 60%)
+@snap[north]
 #### 工作会议
 @snapend
 
 @snap[south-east span-30]
-@![LQ](assets/img/LQ.jpg)
+![LQ](assets/img/LQ.jpg)
 @snapend
 @snap[south span-30]
 ![gzhy](assets/img/gzhy.jpg)
