@@ -26,7 +26,7 @@
 @snap[west sidebar]
 ![nju](assets/img/students.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-6x]
+@fa[angle-double-right fa-4x]
 @snapend
 @snapend
 @snap[east sidebar]
