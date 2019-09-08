@@ -109,8 +109,6 @@
 
 ### 工作实践
 
-+++
-
 +++?color=linear-gradient(180deg, black 40%, #a9a9a9 60%)
 @snap[midpoint]
 #### 工作会议
