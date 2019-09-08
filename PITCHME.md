@@ -11,7 +11,7 @@
 @snap[west sidebar]
 ![nju](assets/img/NJU.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-5x]
+@fa[angle-double-right fa-4x]
 @snapend
 @snapend
 @snap[east sidebar]
