@@ -123,19 +123,19 @@
 @snapend
 
 +++
-@snap[north span-30]
+@snap[midpoint span-30]
 #### 数据采集
 @snapend
 @snap[north-east span-30]
 ![shilong1](assets/img/shilong1.jpg)
 @snapend
-@snap[midpoint span-30]
+@snap[south-west span-30]
 ![guiyangyuan](assets/img/guiyangyuan.jpg)
 @snapend
 @snap[north-west span-30]
 ![shilong2](assets/img/shilong2.jpg)
 @snapend
-@snap[south span-30]
+@snap[south-east span-30]
 ![wrj](assets/img/wrj.jpg)
 @snapend
 
