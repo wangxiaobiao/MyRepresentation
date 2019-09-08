@@ -34,7 +34,6 @@
 @snapend
 
 ---
-
 ## @fa[male](工作)
 
 +++
@@ -156,7 +155,18 @@
 ![qj](assets/img/qj.jpg)
 
 ---
+## @fa[battery-quarter](学习)
 
++++
+### 专业方面
+
+![study](assets/img/study.jpg)
+
++++
+### 其它方面
+![studyother](assets/img/studyother.jpg)
+
+---
 ## @fa[hourglass-2](生活)
 
 +++
@@ -200,11 +210,6 @@
 - @fa[swimming-pool](游泳)
 - @fa[ellipsis-v]
 @ulend
-
-+++
-### 学习
-
-![study](assets/img/study.jpg)
 
 ---
 
