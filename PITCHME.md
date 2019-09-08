@@ -171,6 +171,24 @@
 
 +++
 
+@snap[northeast span-30]
+![jogging](assets/img/ene.png)
+@snapend
+@snap[midpoint span-30]
+#### 每月运动量
+@snapend
+@snap[northwest span-30]
+![jogging](assets/img/enw.png)
+@snapend
+@snap[southeast span-30]
+![jogging](assets/img/ese.png)
+@snapend
+@snap[southwest span-30]
+![jogging](assets/img/esw.png)
+@snapend
+
++++
+
 @snap[west span-9]
 ![长跑](assets/img/w.jpg)
 @snapend
@@ -205,7 +223,7 @@
 
 @ul
 - @fa[basketball-ball](篮球)<br>
-- @fa[shuttlecock](羽毛球)
+- @fa[table-tennis](乒乓球)
 - @fa[volleyball-ball](气排球)
 - @fa[swimming-pool](游泳)
 - @fa[ellipsis-v]
