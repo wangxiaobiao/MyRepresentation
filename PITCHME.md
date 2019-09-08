@@ -171,19 +171,19 @@
 
 +++
 
-@snap[north-east span-10]
+@snap[north-east span-20]
 ![jogging](assets/img/ene.png)
 @snapend
-@snap[midpoint span-10]
+@snap[midpoint span-30]
 #### 每月运动量
 @snapend
-@snap[north-west span-10]
+@snap[north-west span-20]
 ![jogging](assets/img/enw.png)
 @snapend
-@snap[south-east span-10]
+@snap[south-east span-20]
 ![jogging](assets/img/ese.png)
 @snapend
-@snap[south-west span-10]
+@snap[south-west span-20]
 ![jogging](assets/img/esw.png)
 @snapend
 
