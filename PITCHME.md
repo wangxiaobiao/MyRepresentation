@@ -171,7 +171,7 @@
 
 +++
 
-#### 每月运动量
+#### 月运动量
 ![yundong](assets/img/yundong.jpg)
 
 +++
