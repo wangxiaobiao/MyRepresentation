@@ -114,13 +114,13 @@
 #### 工作会议
 @snapend
 
-@snap[south-east span-30]
+@snap[east span-30]
 ![LQ](assets/img/LQ.jpg)
 @snapend
-@snap[south span-30]
+@snap[midpoint span-30]
 ![gzhy](assets/img/gzhy.jpg)
 @snapend
-@snap[south-west span-30]
+@snap[west span-30]
 ![SD](assets/img/SD.jpg)
 @snapend
 
