@@ -111,19 +111,19 @@
 
 +++
 
----?color=linear-gradient(180deg, black 40%, #a9a9a9 60%)
++++?color=linear-gradient(180deg, black 40%, #a9a9a9 60%)
 @snap[midpoint]
 #### 工作会议
 @snapend
 
 @snap[south-east span-30]
-@box[](![LQ](assets/img/LQ.jpg))
+@![LQ](assets/img/LQ.jpg)
 @snapend
 @snap[south span-30]
-@box[](![gzhy](assets/img/gzhy.jpg))
+![gzhy](assets/img/gzhy.jpg)
 @snapend
 @snap[south-west span-30]
-@box[](![SD](assets/img/SD.jpg))
+![SD](assets/img/SD.jpg)
 @snapend
 
 +++
